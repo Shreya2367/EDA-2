@@ -33,3 +33,7 @@ The dataset reflects actual banking data quality challenges: missing values, dir
 | **Q2** | Risk Signals | Which borrower attributes are most strongly associated with default? |
 | **Q3** | Loss Severity | For defaulted loans, what drives LGD %? |
 | **Q4** | Policy Translation | What evidence-backed changes should the credit risk team make? |
+
+-----------------------------------------------------------------------------------------------
+## 📊 Project Report
+You can view the full project analysis here: [Download EDA Report](EDA_Report.pdf)
